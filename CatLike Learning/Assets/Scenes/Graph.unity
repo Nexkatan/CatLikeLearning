@@ -388,15 +388,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 199713e24c238d740b6f0560fc9a2777, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resolution: 120
-  function: 0
-  transitionMode: 0
-  duration: 0
-  functionDuration: 1
-  transitionDuration: 1
   computeShader: {fileID: 7200000, guid: 5bfe36d182b2e9545a10de3976d5674a, type: 3}
   material: {fileID: 2100000, guid: e70c0d8d4ad55fb48a592ee74630ea85, type: 2}
   mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  resolution: 120
+  function: 0
+  transitionMode: 0
+  functionDuration: 1
+  transitionDuration: 1
 --- !u!4 &1462853122
 Transform:
   m_ObjectHideFlags: 0
