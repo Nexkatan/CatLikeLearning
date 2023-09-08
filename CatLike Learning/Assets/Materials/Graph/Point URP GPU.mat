@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Point URP
-  m_Shader: {fileID: -6465566751694194690, guid: 815359d7098b2df4d9a7b95ac6dd54da, type: 3}
+  m_Name: Point URP GPU
+  m_Shader: {fileID: -6465566751694194690, guid: ebd100fb11dd886419d048535b6af898, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
